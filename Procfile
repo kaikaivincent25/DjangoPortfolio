@@ -1,0 +1,1 @@
+web: gunicorn vincent_backend.wsgi --log-file -
